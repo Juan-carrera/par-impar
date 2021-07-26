@@ -4,10 +4,10 @@ const form = d.querySelector(".form");
 const resp = d.querySelector(".response");
 
 
-form.addEventListener("submit", validarNumero);
+form.addEventListener("submit", numeroParImpar);
 
 
-function validarNumero(e){
+function numeroParImpar(e){
 
     // PreventDefault evita que el navegador realice la acción por default
     e.preventDefault();
