@@ -31,7 +31,7 @@ function numeroParImpar(e){
           
             form.reset();
 
-            //agregampos la clase none a nuestro div en el DOM
+            //agregampos la clase none a nuestro div en el DOM rr
             setTimeout(() => {
                 resp.classList.add("none");
             }, 3000);
