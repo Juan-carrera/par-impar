@@ -24,7 +24,7 @@ function numeroParImpar(e){
         resp.classList.remove("none");
 
         //insertamos un parrafo en nuestro div del DOM
-        resp.innerHTML = `<p>El numero ${valorInputMultiplicado} es un resultado par</p>`;
+        resp.innerHTML = `<p>El número ${valorInputMultiplicado} es un resultado par</p>`;
         
         //limpiamos el input despues de 1 segundo
         setTimeout(() => { 
@@ -43,7 +43,7 @@ function numeroParImpar(e){
     } else{
 
         resp.classList.remove("none");
-        resp.innerHTML = `<p>El numero ${valorInputMultiplicado} es un resultado impar</p>`;
+        resp.innerHTML = `<p>El número ${valorInputMultiplicado} es un resultado impar</p>`;
         
         setTimeout(() => { 
           
