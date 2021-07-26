@@ -20,7 +20,7 @@ function numeroParImpar(e){
   
     if((valorInputMultiplicado % 2) === 0){
 
-        //removemos la clase none de nuestro div en el DOM
+        //removemos la clase none de nuestro div en el DOM rr
         resp.classList.remove("none");
 
         //insertamos un parrafo en nuestro div del DOM
