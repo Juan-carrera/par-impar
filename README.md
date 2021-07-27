@@ -7,7 +7,7 @@ Aplicacion web que calcula si un numero es par ó impar
 
 ### Pre-requisitos 📋
 
-Ninguno! Solo necesitas ir a la siguiente liga y probar la aplicacion😬
+Ninguno! Solo necesitas ir a la siguiente liga y probar la aplicacion web😬
 
 ```
 https://juan-carrera.github.io/par-impar/
