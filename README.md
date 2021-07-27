@@ -5,7 +5,7 @@ Aplicacion web que calcula si un numero es par ó impar
 ## Comenzando 🚀
 
 
-### Pre-requisitos 📋
+### Requisitos 📋
 
 Ninguno! Solo necesitas ir a la siguiente liga y probar la aplicacion web😬
 
