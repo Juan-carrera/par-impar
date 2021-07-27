@@ -1,6 +1,6 @@
 # PAR Ó IMPAR
 
-Aplicacion web que calcula si un numero es par ó impar
+Aplicacion web que calcula si un número es par ó impar
 
 ## Comenzando 🚀
 
